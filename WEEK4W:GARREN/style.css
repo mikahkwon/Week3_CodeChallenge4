@@ -1,4 +1,7 @@
 body {
   background-color: rgb(135, 222, 145);
+  font-family: "UnifrakturCook", "Old English Text MT", serif;
   min-height: 100vh;
+  font-size: 100px;
+  font-weight: bold;
 }
